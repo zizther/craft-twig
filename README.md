@@ -1,4 +1,4 @@
-# Craft CMS Package for Atom
+# Craft 2 CMS Package for Atom
 
 Add snippets and template tags for the [Craft CMS](https://buildwithcraft.com/) to Twig & HTML files in Atom.
 

@@ -3,7 +3,7 @@ fileTypes: [
   "html.twig"
 ]
 firstLineMatch: "\\{\\%( |-)?extends"
-name: "Craft (Twig)"
+name: "Craft 2 (Twig)"
 patterns: [
   {
     begin: '''
