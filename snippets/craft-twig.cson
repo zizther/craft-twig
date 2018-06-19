@@ -1067,7 +1067,7 @@
   redirect:
     prefix: "redirect"
     body: '''
-      {% redirect '${1:template/path or http://straightupcraft.com}' %}
+      {% redirect '${1:template/path or https://craftcms.com/}' %}
       $0
     '''
   "request getParam":
