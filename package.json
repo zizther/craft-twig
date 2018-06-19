@@ -1,15 +1,15 @@
 {
-  "name": "craft-twig",
-  "version": "0.2.0",
-  "description": "A Craft CMS package for Atom",
+  "name": "craft2-twig",
+  "version": "0.0.0",
+  "description": "A Craft 2 CMS package for Atom",
   "keywords": [
     "craft",
     "twig"
   ],
   "activationCommands": {
-    "atom-workspace": "craft-twig:toggle"
+    "atom-workspace": "craft2-twig:toggle"
   },
-  "repository": "https://github.com/zizther/craft-twig",
+  "repository": "https://github.com/zizther/craft2-twig",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
